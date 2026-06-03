@@ -1,1 +1,1 @@
-This files contains CV, CEH Certificate and Profile Photo
+Portfolio assets folder
