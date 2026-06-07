@@ -1,9 +1,6 @@
 
 <p align="center">
-  <img src="profile.jpg" alt="Profile Photo"
-       width="150"
-       height="150"
-       style="border-radius:50%; object-fit:cover;">
+ <img src="profile.jpg" width="150" style="border-radius:50%;">
 </p>
 
 # Salat Abdullahi Issak  
