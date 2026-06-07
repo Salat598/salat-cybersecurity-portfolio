@@ -1,11 +1,12 @@
 # salat-cybersecurity-portfolio
 <p align="center">
-  <img src="profile-photo.jpg" alt="Profile Photo" width="150" style="border-radius:50%;">
+  <img src="profile-photo.jpg" width="150" style="border-radius:50%;">
 </p>
 
-# Salat Abdullahi Issak
+# Salat Abdullahi Issak  
+### Cybersecurity | SOC Analyst | ICT Professional|Certified Ethical Hacker
 
-## Computer Science Graduate | Certified Ethical Hacker | ICT Officer | Cybersecurity Enthusiast
+
 
 📞 +254 723 227 687
 
