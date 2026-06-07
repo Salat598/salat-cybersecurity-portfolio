@@ -1,6 +1,9 @@
-# salat-cybersecurity-portfolio
+
 <p align="center">
-  <img src="profile-photo.jpg" width="150" style="border-radius:50%;">
+  <img src="profile.jpg" alt="Profile Photo"
+       width="150"
+       height="150"
+       style="border-radius:50%; object-fit:cover;">
 </p>
 
 # Salat Abdullahi Issak  
@@ -9,7 +12,6 @@
 
 
 📞 +254 723 227 687
-
 📧 salatabduisak@gmail.com
 
 LinkedIn:https://www.linkedin.com/in/salat-ictspecialist
