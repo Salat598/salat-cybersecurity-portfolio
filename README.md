@@ -1,4 +1,8 @@
 # salat-cybersecurity-portfolio
+<p align="center">
+  <img src="profile-photo.jpg" alt="Profile Photo" width="150" style="border-radius:50%;">
+</p>
+
 # Salat Abdullahi Issak
 
 ## Computer Science Graduate | Certified Ethical Hacker | ICT Officer | Cybersecurity Enthusiast
